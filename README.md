@@ -14,6 +14,9 @@ I’m exploring career paths that combine technology, analysis and communication
 | **LeafLine** | Library management application covering books, members, borrowing and returns, with SQLAlchemy and SQLite storage. |
 | **CineSeat** | Movie booking prototype covering catalogue management, reservations, cancellations, seat availability and reports. |
 | **Salary & TDS System** | Salary breakdown application with allowances, PF contributions and simplified demonstration TDS calculations. |
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/priyanshu-panwar-codes/)
 
 ## Tools used in my projects
 
