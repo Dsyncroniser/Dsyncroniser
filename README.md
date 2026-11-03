@@ -1,4 +1,4 @@
-Priyanshu Panwar
+Priyanshu Panwar, 20
 I’m an Information Technology undergraduate at HMR Institute of Technology & Management, GGSIPU, interested in how technology can improve everyday processes and user experiences.
 
 My projects cover web applications, APIs and document intelligence. Through them, I’m learning to connect user requirements with design, implementation, testing and documentation.
