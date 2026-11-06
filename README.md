@@ -20,7 +20,17 @@ I’m exploring career paths that combine technology, analysis and communication
 
 ## Tools used in my projects
 
-Python · FastAPI · Pydantic · SQLAlchemy · SQLite · Qdrant · HTML · CSS · JavaScript · Git
+![Python](https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=FFD43B)
+![FastAPI](https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi&logoColor=00BFA6)
+![Pydantic](https://img.shields.io/badge/Pydantic-151515?style=for-the-badge&logo=pydantic&logoColor=E92063)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-151515?style=for-the-badge&logo=sqlalchemy&logoColor=E74C3C)
+![SQLite](https://img.shields.io/badge/SQLite-151515?style=for-the-badge&logo=sqlite&logoColor=74C0FC)
+
+![Qdrant](https://img.shields.io/badge/Qdrant-151515?style=for-the-badge&logo=qdrant&logoColor=DC244C)
+![HTML](https://img.shields.io/badge/HTML-151515?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-151515?style=for-the-badge&logo=css&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=F05032)
 
 ## Current focus
 
